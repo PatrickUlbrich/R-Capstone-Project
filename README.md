@@ -1,4 +1,4 @@
-Es handelt sich bei diesem Projekt um das 2. Abschlussprojekt (Capstone Project) für das Google Data Analytics Zertifikat. 
+Es handelt sich bei diesem Projekt um das 2. Abschlussprojekt (Capstone Project) des Google Data Analytics Zertifikats. 
 
 Für das Projekt wurde R genutzt.  
 
